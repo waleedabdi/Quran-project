@@ -29,7 +29,7 @@ MIT. See the LICENSE file.
 
 ## Live Demo
 
-[live app link] - https://waleedabdi.github.io/quran-app/ 
+[live app link] -  https://waleedabdi.github.io/Quran-project/
 
 [Figma link] - https://www.figma.com/design/8wjl9BTCBN3FvssGpqMA7x/Noor-Reader-Wireframe?node-id=0-1&t=MWj48a36r0VycMag-
 
